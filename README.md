@@ -24,4 +24,4 @@
 [3]:	#%E4%BC%A0%E8%AE%B0
 [4]:	#%E7%A7%91%E5%AD%A6
 [5]:	#%E4%BC%9A%E8%AE%A1
-[6]:	science/%E8%B6%85%E8%B6%8A%E8%87%AA%E5%8D%91.md "超越自卑"
+[6]:	science/%E8%B6%85%E8%B6%8A%E8%87%AA%E5%8D%91/%E4%BB%A3%E5%BA%8F.md "超越自卑"
